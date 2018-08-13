@@ -9,7 +9,9 @@ Here are some of the sites that offer online training for Kubernetes:
 
 {{% /capture %}}
 
-{{% capture body %}}
+{{% capture body %}}'
+
+* [Certified Kubernetes Administrator Preparation Course (LinuxAcademy.com)](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course)
 
 * [Scalable Microservices with Kubernetes (Udacity)](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 
